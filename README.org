@@ -1,0 +1,4 @@
+#+TITLE: README
+
+Does GitHub support special READMEs as org files? If you're seeing this, it's
+temporary!
