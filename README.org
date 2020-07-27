@@ -1,4 +1,24 @@
 #+TITLE: README
 
-Does GitHub support special READMEs as org files? If you're seeing this, it's
-temporary!
+* Who?
+- Software developer, likes computers too much
+* What?
+** Professionally
+- Full stack web development during the day, lots of JavaScript
+** Personally
+- Interests include:
+  - JavaScript / TypeScript
+  - Rust
+  - Functional programming
+  - Unix and Linux
+- Currently learning:
+  - Lisp
+  - Haskell
+  - Systems programming generally
+  - NixOS
+* Where?
+- *Twitter* :: [[https://twitter.com/ryan_faulhaber]]
+- *Site* :: [[https://ryanfaulhaber.com]]
+- *DEV* :: [[https://dev.to/rfaulhaber]]
+- *Keybase* :: [[https://keybase.io/rfaulhaber]]
+- *Email* :: [[mailto:faulhaberryan@gmail.com][gmail]] or [[mailto:ryan@sys9.net][other]]
