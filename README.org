@@ -1,5 +1,3 @@
-#+TITLE: self
-
 ** Who?
 - Software developer, likes computers too much
 ** What?
