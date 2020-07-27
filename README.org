@@ -1,24 +1,20 @@
-#+TITLE: README
+#+TITLE: self
 
-* Who?
+** Who?
 - Software developer, likes computers too much
-* What?
-** Professionally
+** What?
+*** Professionally
 - Full stack web development during the day, lots of JavaScript
-** Personally
+*** Personally
 - Interests include:
-  - JavaScript / TypeScript
-  - Rust
-  - Functional programming
-  - Unix and Linux
+  - JavaScript / TypeScript, Rust, functional programming, Unix and Linux
 - Currently learning:
-  - Lisp
-  - Haskell
-  - Systems programming generally
-  - NixOS
-* Where?
-- *Twitter* :: [[https://twitter.com/ryan_faulhaber]]
-- *Site* :: [[https://ryanfaulhaber.com]]
-- *DEV* :: [[https://dev.to/rfaulhaber]]
-- *Keybase* :: [[https://keybase.io/rfaulhaber]]
-- *Email* :: [[mailto:faulhaberryan@gmail.com][gmail]] or [[mailto:ryan@sys9.net][other]]
+  - Lisp, Haskell, systems programming generally, NixOS
+** How
+[[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs btw]]
+** Where?
+- *Email*: [[mailto:faulhaberryan@gmail.com][gmail]] or [[mailto:ryan@sys9.net][other]] ([[https://ryanfaulhaber.com/gpg1.txt][GPG]])
+- *Twitter*: [[https://twitter.com/ryan_faulhaber]]
+- *Site*: [[https://ryanfaulhaber.com]]
+- *DEV*: [[https://dev.to/rfaulhaber]]
+- *Keybase*: [[https://keybase.io/rfaulhaber]]
