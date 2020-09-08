@@ -8,11 +8,11 @@
   - JavaScript / TypeScript, Rust, functional programming, Unix and Linux
 - Currently learning:
   - Lisp, Haskell, systems programming generally, NixOS
-- Currently working on: TypeScript TOML parser (watch this space!)
+- Currently working on: Lisp interpreter in Rust
 ** How?
 [[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs btw]]
 ** Where?
-- *Email*: [[mailto:faulhaberryan@gmail.com][gmail]] or [[mailto:ryan@sys9.net][other]] ([[https://ryanfaulhaber.com/gpg1.txt][GPG]])
+- *Email*: [[mailto:ryf@sent.as][ryf@sent.as]] ([[https://ryanfaulhaber.com/gpg1.txt][GPG]])
 - *Twitter*: [[https://twitter.com/ryan_faulhaber]]
 - *Site*: [[https://ryanfaulhaber.com]]
 - *DEV*: [[https://dev.to/rfaulhaber]]
