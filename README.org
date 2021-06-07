@@ -2,18 +2,25 @@
 - Software developer, likes computers too much
 ** What?
 *** Professionally
-- Full stack web development during the day, lots of JavaScript
+- Full stack web development during the day with JavaScript and Go
 *** Personally
 - Interests include:
-  - JavaScript / TypeScript, Rust, functional programming, Unix and Linux
+  + JavaScript / TypeScript, Rust, functional programming, programming language
+    theory, Unix-like systems
 - Currently learning:
-  - Lisp, Haskell, systems programming generally, NixOS
-- Currently working on: Lisp interpreter in Rust
+  + Lisp, Haskell, systems programming generally, NixOS, type-driven development
+- Current personal projects include:
+  + [[https://github.com/rfaulhaber/dial][Lisp interpreter in Rust]]
 ** How?
 [[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs btw]]
 ** Where?
-- *Email*: [[mailto:ryf@sent.as][ryf@sent.as]] ([[https://ryanfaulhaber.com/gpg1.txt][GPG]])
-- *Twitter*: [[https://twitter.com/ryan_faulhaber]]
-- *Site*: [[https://ryanfaulhaber.com]]
-- *DEV*: [[https://dev.to/rfaulhaber]]
-- *Keybase*: [[https://keybase.io/rfaulhaber]]
+🔑 GPG key: [[https://keybase.io/rfaulhaber/pgp_keys.asc?fingerprint=a2205925f3b6c5b96f26c3cb544650c5a306061b][A2205925F3B6C5B96F26C3CB544650C5A306061B]]
+
+| Method  | ID                            |
+|---------+-------------------------------|
+| Email   | [[mailto:ryf@sent.as][ryf@sent.as]]                   |
+| GitHub  | [[https://github.com/rfaulhaber][github.com/rfaulhaber]]         |
+| GitLab  | [[https://gitlab.com/rfaulhaber][gitlab.com/rfaulhaber]]         |
+| dev.to  | [[https://dev.to/rfaulhaber][dev.to/rfaulhaber]]             |
+| Twitter | [[https://twitter.com/ryan_faulhaber][twitter.com/ryan_faulhaber]]    |
+| Keybase | [[https://keybase.io/rfaulhaber][https://keybase.io/rfaulhaber]] |
