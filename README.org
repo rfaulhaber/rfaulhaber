@@ -8,9 +8,10 @@
   + JavaScript / TypeScript, Rust, functional programming, programming language
     theory, Unix-like systems
 - Currently learning:
-  + Lisp, Haskell, systems programming generally, NixOS, type-driven development
+  + Lisp macros, type-driven development, systems programming generally
 - Current personal projects include:
-  + [[https://github.com/rfaulhaber/dial][Lisp interpreter in Rust]]
+  + Making my Emacs better (always)
+  + Social media experimentation (watch this space)
 ** How?
 [[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs btw]]
 ** Where?
