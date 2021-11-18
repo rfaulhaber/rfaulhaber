@@ -9,11 +9,13 @@
     theory, Unix-like systems
 - Currently learning:
   + Lisp macros, type-driven development, systems programming generally
+  + Programming language implementation
 - Current personal projects include:
   + Making my Emacs better (always)
   + Social media experimentation (watch this space)
+  + Implementing a Lisp
 ** How?
-[[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs btw]]
+[[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs]]
 ** Where?
 🔑 GPG key: [[https://keybase.io/rfaulhaber/pgp_keys.asc?fingerprint=a2205925f3b6c5b96f26c3cb544650c5a306061b][A2205925F3B6C5B96F26C3CB544650C5A306061B]]
 
