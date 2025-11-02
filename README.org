@@ -11,7 +11,6 @@
 - Programming languages in general
 - Systems programming
 *** Projects
-- [[https://github.com/rfaulhaber/lox][lox]]
 - Making my [[https://github.com/rfaulhaber/dotfiles][Nix and Emacs configs]] better (always)
 * How?
 [[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs]]
@@ -19,6 +18,10 @@
 
 [[https://github.com/rfaulhaber.gpg][🔑 GPG key]]
 
-| Email   | [[mailto:ryf@sent.as][ryf@sent.as]]                   |
-| GitHub  | [[https://github.com/rfaulhaber][github.com/rfaulhaber]]         |
-| Keybase | [[https://keybase.io/rfaulhaber][https://keybase.io/rfaulhaber]] |
+| Email     | [[mailto:ryf@sent.as][ryf@sent.as]]                   |
+| GitHub    | [[https://github.com/rfaulhaber][github.com/rfaulhaber]]         |
+| Keybase   | [[https://keybase.io/rfaulhaber][https://keybase.io/rfaulhaber]] |
+| SourceHut | [[https://sr.ht/~yarn/]]          |
+* Notice of Deprecation
+Starting November 1st, 2025, I will be winding down my maintainer activity on GitHub in favor of migrating to SourceHut. I will
+keep this profile for contributions, but any new work can be found on SourceHut instead.
