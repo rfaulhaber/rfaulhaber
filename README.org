@@ -21,7 +21,7 @@
 | Email     | [[mailto:ryf@sent.as][ryf@sent.as]]                   |
 | GitHub    | [[https://github.com/rfaulhaber][github.com/rfaulhaber]]         |
 | Keybase   | [[https://keybase.io/rfaulhaber][https://keybase.io/rfaulhaber]] |
-| SourceHut | [[https://sr.ht/~yarn/]]          |
+| Codeberg | [[https://codeberg.org/ryf]]          |
 * Notice of Deprecation
-Starting November 1st, 2025, I will be winding down my maintainer activity on GitHub in favor of migrating to SourceHut. I will
-keep this profile for contributions, but any new work can be found on SourceHut instead.
+Starting November 1st, 2025, I will be winding down my maintainer activity on GitHub in favor of migrating to [[https://codeberg.org/ryf][Codeberg]]. I will
+keep this profile for contributions, but any new work can be found on Codeberg instead.
