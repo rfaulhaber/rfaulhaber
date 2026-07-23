@@ -1,27 +1,22 @@
 * Who?
-- Software developer
-- Likes computers too much
+- Software developer, mostly self-directed
+- Spend too much time building infra I need to solve problems I created
 * What?
 ** Professionally
-- Full-Stack Web Development
-- REST APIs
-- Data applications
+- Backend systems, data pipelines
+- Whatever is between the database and the user
 ** Personally
 *** Interests
-- Programming languages in general
-- Systems programming
+- Rust, systems programming
+- Nix, reproducible everything
+- Language design, type systems
 *** Projects
-- Making my [[https://github.com/rfaulhaber/dotfiles][Nix and Emacs configs]] better (always)
+- [[https://github.com/rfaulhaber/dotfiles][Nix + Emacs configs]], perpetually mid-rewrite
 * How?
-[[https://ryanfaulhaber.com/posts/try-emacs/][I use Emacs]]
+[[https://ryanfaulhaber.com/posts/try-emacs/][Emacs]], obviously
 * Where?
 
 [[https://github.com/rfaulhaber.gpg][🔑 GPG key]]
 
-| Email     | [[mailto:ryf@sent.as][ryf@sent.as]]                   |
-| GitHub    | [[https://github.com/rfaulhaber][github.com/rfaulhaber]]         |
-| Keybase   | [[https://keybase.io/rfaulhaber][https://keybase.io/rfaulhaber]] |
-| Codeberg | [[https://codeberg.org/ryf]]          |
-* Notice of Deprecation
-Starting November 1st, 2025, I will be winding down my maintainer activity on GitHub in favor of migrating to [[https://codeberg.org/ryf][Codeberg]]. I will
-keep this profile for contributions, but any new work can be found on Codeberg instead.
+| Email  | [[mailto:ryf@sent.as][ryf@sent.as]]           |
+| GitHub | [[https://github.com/rfaulhaber][github.com/rfaulhaber]] |
